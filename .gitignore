@@ -3,4 +3,5 @@
 *.net
 !eight.net
 [aeiou]*.txt
+[aeiou]*.php
 
